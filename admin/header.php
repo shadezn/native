@@ -1,11 +1,4 @@
 <?php 
-/**................................................................
- * @package eblog v 1.0
- * @author Faith Awolu 
- * Hillsofts Technology Ltd.            
- * (hillsofts@gmail.com)
- * ................................................................
- */
 include"../connect.php";
 session_start();
 if(!isset($_SESSION['SESS_FIRST_NAME'])){

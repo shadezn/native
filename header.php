@@ -1,17 +1,9 @@
 <?php 
-/**................................................................
- * @package eblog v 1.0
- * @author Faith Awolu 
- * Hillsofts Technology Ltd.            
- * (hillsofts@gmail.com)
- * ................................................................
- */
 include "connect.php";
 ?>
 <!DOCTYPE HTML>
 <html class="no-js">
-<!-- Mirrored from html.imithemes.com/nativechurch/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 09 Nov 2016 06:05:14 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <!-- Basic Page Needs
   ================================================== -->

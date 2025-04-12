@@ -1,12 +1,4 @@
 <?php 
-/**................................................................
- * @package eblog v 1.0
- * @author Faith Awolu 
- * Hillsofts Technology Ltd.            
- * (hillsofts@gmail.com)
- * ................................................................
- */
-
 include '../connect.php';
 $body = $_POST['body'];
 

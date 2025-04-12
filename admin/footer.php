@@ -1,6 +1,6 @@
 <!--footer section start-->
 			<footer>
-			   <p>&copy 2017 Efac Admin Panel. All Rights Reserved | Design by <a href="https://facebook.com/hillsoftsnetwork" target="_blank">Hillsofts.</a></p>
+			   <p>&copy 2025 JITS Lit IT. All Rights Reserved | Design by <a href="https://josephitsolutions.co.za" target="_blank">Joseph IT Solutions Pty Ltd</a></p>
 			</footer>
         <!--footer section end-->
 

@@ -1,10 +1,4 @@
 <?php
-/**................................................................
- * @package eblog v 1.0
- * @author Faith Awolu 
- * Hillsofts Technology Ltd.            
- * (hillsofts@gmail.com)
- * ................................................................
 Start session
 */
 	session_start();
