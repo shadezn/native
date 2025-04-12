@@ -1,0 +1,19 @@
+https://www.sourcecodester.com/php/11764/native-church-website-phpmysql.html
+
+Installation/Setup
+
+Open your XAMPP/WAMP's Control Panel and start the "Apache" and "MySQL".
+Extract the downloaded source code file.
+If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.
+Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+Create a new database naming "hillsoft_real".
+Import the provided SQL file. The file is known as "native Church.sql" located inside the "database" folder.
+Browse the Native Church Website in a browser. i.e. http://localhost/native for the website and http://localhost/native/admin for the admin
+Admin Credential
+Username: admin
+Password: admin
+
+I also updated CKEditor from https://ckeditor.com/ckeditor-4/download/
+Download the full package and replace the contents in native/admin/ckeditor.
+Then update header.php by removing the line about the ckeditor version.
+Just leave the line calling the local installation.
